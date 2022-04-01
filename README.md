@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kgdo
 - 👀 I’m interested in web development, history, music, travel, and art in any form.
-- 🌱 I’m currently learning front end web development.
-- 💞️ I’m looking to collaborate on: Well, I'm still learning. 
+- 🌱 I’ve been working with JavaScript since March 2021.
+- 💞️ I’m looking to collaborate on: projects. 
 - 📫 How to reach me hatch.records@gmail.com
 
 <!---
